@@ -1,4 +1,5 @@
-<h1>Hi, I'm Fatima! <br/><a href="[https://github.com/joshmadakor1](https://github.com/boumhamdif7/fatimaboumhamdi)">Web Developer</a>, <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/fatima-boumhamdi-731386281/)">Back-End, Front-End or Full-Stack</a></h1>
+<h1>Hi, I'm Fatima! <br/>
+  <a href="[https://github.com/joshmadakor1](https://github.com/boumhamdif7/fatimaboumhamdi)">Web Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/fatima-boumhamdi-731386281/)">Back-End, Front-End or Full-Stack</a></h1>
 
 <h2>👨‍💻 Development Projects:</h2>
 
